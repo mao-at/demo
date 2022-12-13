@@ -1,2 +1,2 @@
-def fun():
+def func():
   pass
